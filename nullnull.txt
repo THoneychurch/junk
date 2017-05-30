@@ -1,0 +1,18 @@
+      [MAKE YOUR OWN] PIZZA ORDER
+
+--------------------- LARGE PIZZA: ($8.00)
++ Garlic: ($0.50)
+
+============================
+
+Order Date: 04/06/2015 11:36PM
+Order No: 000001
+
+Customer Name: ss
+Phone No: ss
+
+=TOTAL COST: $8.50
+
+============================
+
+THANK YOU FOR CHOSING US, ENJOY!
